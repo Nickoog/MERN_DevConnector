@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://nicoDB:nicoDB123456@devconnector-napcx.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://nicoDB:nicoDB123456@devconnector-napcx.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
