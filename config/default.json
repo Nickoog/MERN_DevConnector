@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://nicoDB:nicoDB123456@devconnector-napcx.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "8d14c37e7655423e74d4",
+    "githubSecret": "331917f0b4d0e6bcc6c99d494598aaad6dd907a5"
 }
